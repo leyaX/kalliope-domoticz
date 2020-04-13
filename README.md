@@ -1,5 +1,7 @@
 # kalliope-domoticz
 
+FORKED: Corrections diverses pour kalliope 6.0
+
 A neuron to leverage [domoticz](https://www.domoticz.com) API.
 
 ## Synopsis
